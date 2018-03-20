@@ -1,4 +1,18 @@
 .splash{
-  background: #3c3c3b;
+  background-image: url("../assets/images/pokeball.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
   height: 100vh;
+}
+.stroke{
+  -webkit-text-fill-color: white;
+  -webkit-text-stroke: 2px black;
+  font-weight: 900;
+}
+.body-home{
+  background-image: url("../assets/images/pok-wall.jpg");
+  background-size: cover;
+}
+.whos{
+  width: 100%;
 }
