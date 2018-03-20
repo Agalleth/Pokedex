@@ -1,5 +1,5 @@
-$(document).ready(function(){
-	 $('.modal').modal();
+// $(document).ready(function(){
+// 	 $('.modal').modal();
 
 const pokContainer = $('#pokemon-container');
 loadPage = () => {
@@ -46,7 +46,7 @@ const addingPokemons = () => {
 // "resource_uri": "/api/v1/sprite/1/"
 // }
 ////////////
-
+//endpoint individual https://pokeapi.co/api/v2/pokemon-species/1/
 $(document).ready(loadPage);
 
  });
