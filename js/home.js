@@ -48,5 +48,3 @@ const addingPokemons = () => {
 ////////////
 //endpoint individual https://pokeapi.co/api/v2/pokemon-species/1/
 $(document).ready(loadPage);
-
- });
